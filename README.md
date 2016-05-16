@@ -8,7 +8,7 @@ A FuelPHP scaffold to begin projects as fast as possible. This scaffold contains
 To use this scaffolding just clone the repo and run composer to install the dependencies:
 
 ```
-git clone -b <fuelphp_version> https://github.com/axelitus/fuelphp-scaffold.git <project_folder>
+git clone --branch <tag_version> --depth 1 https://github.com/axelitus/fuelphp-scaffold.git <project_folder>
 cd <project_folder>
 composer install [--no-dev]
 ```
