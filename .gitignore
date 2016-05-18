@@ -1,3 +1,8 @@
-/fuel/*
-/docs/*
 composer.lock
+/app/composer.lock
+/app/cache/*
+/app/logs/*
+/app/tmp/*
+/app/vendor/*
+/docs/*
+/fuel/*
