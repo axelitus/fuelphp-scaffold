@@ -6,3 +6,6 @@ composer.lock
 /app/vendor/*
 /docs/*
 /fuel/*
+
+!.gitignore
+!.gitkeep
